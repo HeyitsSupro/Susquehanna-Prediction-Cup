@@ -1,0 +1,13 @@
+# secrets
+api_key
+api_key.txt
+api_key*
+
+# bot output
+sig_arb_bot.log*
+sig_arb_trades.jsonl
+sig_markets.csv
+
+# python
+__pycache__/
+*.pyc
